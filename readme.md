@@ -1,0 +1,3 @@
+# Project foo
+
+This is just a test of git...
